@@ -1,2 +1,0 @@
-# ipadProDevelopment
-Created with CodeSandbox
